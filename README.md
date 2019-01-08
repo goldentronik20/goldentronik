@@ -1,2 +1,0 @@
-# goldentronik
-belajar bot php
